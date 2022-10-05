@@ -1,0 +1,8 @@
+Aufgabe und Recherche:
+
+Die Aufgabe bitte im Milestone10 lösen und auf den Teamsordner sowie den B2 Hochladen. ebenso mit GIT syncronisieren.
+
+Erstelle in Milestone10 die schmeichelprogramm.py und löse die Aufgabe durch schreiben des Quelltextes.
+
+Arbeite ggf im Workspace die gaesteliste.py nach und erstelle die Testfiles.py für die vorherigen Milestones, soweit dies noch nicht erledigt ist.
+

@@ -1,0 +1,19 @@
+Aufgaben:
+erstelle fü jede Methode der Strings und den Operatoren für Strings, jeweils eine Test<funktionsname>.py an.
+teste ggf eigenen code in test.py in deinem _Workspace.
+lade deine Ergebnisse in den Teamsordner und den _Workspace auf dem B2 hoch.
+ebenso den angepassen sanitizer2a.py und sanitizer1a.py
+
+
+passe den sanitizer 2 wie folgt an und lade ihn als sanitizer3.py in denen Workspace auf dem teams und dem B2:
+
+alle ausgaben sollen formatiert ausgegeben werden (z.B. die Zähler!)
+alle Texte sollen Linksbündig mit 60 Zeichen ausgegeben werden!
+alle Texte Zählwerk sollen nach 50 Zeichen den Doppelpunkt haben und dann die Anzahl der gezählten Ersetzungen ausgeben.
+das erste wort "Klammern, Leerzeichen, Sonderzeichen sollen in gleicher länge (mit füllzeichen " ") ausgegeben werden.
+alle aufgeführten Zeichen die ersetzt werden sollen hübsch untereinander eingerückt sein!
+Dokumentiere den Sanitizer1a.py und Sanitizer2a.py
+
+ 
+frage:
+welche funktionen/Methoden benötigst du zur erweiterung der Sanitizer-3 Übung?

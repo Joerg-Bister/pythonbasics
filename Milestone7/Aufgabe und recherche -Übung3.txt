@@ -1,0 +1,17 @@
+Aufgabe :
+erstelle ein kleines Programm,das wie unten beschrieben eine definierte Funktionalität bietet.
+
+lade dieses Programm in deinem Workspace in Pycharm in den Ordner "projekt" und benenne die datei gaestebuch
+
+Synce deinen Workspace mit dem B2 und Git und deinem Teams-Ordner.
+
+Funktionalität des Programms:
+es sollen gäste erfasst und gelöscht werden können
+es soll eine Liste ausgegeben werden, in der Vorname/nachname/gender ausgegeben wird
+es soll ein index der nutzer ausgegeben werden, der indexnummer und Vorname/nachname enthält
+es soll möglich sein einzelne Nutzer über deren index anzeigen zu lassen
+es soll möglich sein einzelne Nutzer auswählen und ändern zu können.
+
+das programm soll abgebrochen werden können
+es soll eine dummyfunkrion zum speichernund eine zum laden berücksichtigt werden
+

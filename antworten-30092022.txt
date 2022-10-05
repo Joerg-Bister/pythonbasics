@@ -1,0 +1,39 @@
+Arbeite die Handouts des Milestone 0-2 auf und installiere alle benötigte Softare.
+
+Spiele mit den Hallo.py und HalloWelt.py herum und erzeuge Sie auf dem B2 mit dem Nano und auf Windows mit Idle.
+Probiere alle codebeispiele in einer Test.py aus und speichere Sie jeweils auf deinem Rechner, auf dem B2 und auf Kali ab,
+erzeuge die upload.bat und download.bat unm die Dateien zu syncronisieren und lege diese Bat mit in deinen Hausaufgabenordner im Teams ab.
+
+Lege eien Kopie deines Wiindows Workspace-Ordners in Teams ab.
+
+
+was ist Python?
+
+Bei Python handelt es sich um eine Programmiersprache mit einer klaren Syntax und guten Lesbarkeit. Sie gilt als leicht zu erlernen und ist in den gängigen Betriebssystemen interpretierbar. Der Name leitet sich von „Monty Python's Flying Circus“ ab. Python unterstützt mehrere Paradigmen der Programmierung wie die funktionale, objektorientierte oder aspektorientierte Programmierung und ist auch als Skriptsprache nutzbar. 
+Entwickelt wurde Python von Guido van Rossum am Centrum Wiskunde & Informatica in Amsterdam zu Beginn der 1990er-Jahre. Seit Mitte 2018 steht die Programmiersprache in der aktuellen Version 3.7 zur Verfügung. Der Python-Quell-Code ist unter der Python-Software-Foundation-License frei verfügbar. Im Netz existiert eine breite Anhängerschaft und große Community.
+https://www.bigdata-insider.de/was-ist-python-a-730480/
+
+was ist pip?
+
+pip ist der Standardpaketmanager fürPython. Sie können damit zusätzliche Pakete installieren und verwalten, die nicht Teil derPython standard library sind.
+https://www.codeflow.site/de/article/what-is-pip
+
+was ist Syntax in Programmiersprachen?
+
+Syntax ist ein Teilgebiet der Grammatik und bezeichnet die Lehre vom Satzbau. Sie legt fest, wie aus einzelnen Komponenten - den Wörtern - sinnvolle Sätze entstehen.
+Beim Programmieren legt die Syntax formale Regeln über die zulässigen Sprachelemente einer Programmiersprache fest. Außerdem regelt sie, inwiefern diese Elemente in einem Programm verwendet werden dürfen.
+Die Programmiersprache kann als Schnittstelle zwischen Mensch und Computer verstanden werden.
+So wie Sie als Mensch nur sinnvoll aufgebaute Sätze verstehen können, versteht ein Computer auch nur Programme, die sinnvoll formulierte Befehle an ihn senden. Deshalb ist es wichtig, beim Programmieren die Syntax der jeweiligen Programmiersprache einzuhalten.
+Als Mensch verfügen Sie über Phantasie. Sie können also Sätze entschlüsseln und verstehen, die im Aufbau falsch sind. Ein Rechner ist (noch) phantasielos: Damit er einen Befehl verstehen und ausführen kann, muss der Code fehlerfrei sein, die Regeln der Syntax also eingehalten werden. Ansonsten funktioniert das Programm nicht.
+
+wie sind Kommentare im Quelltext zu kennzeichnen?
+
+Vor den Kommentar wird eine # gesetzt.
+
+was ist ein Interpreter?
+
+Ein Interpreter ist ein Programm, das Zeile für Zeile eines Quellprogramms ausliest und diesen Code direkt ausführt – auf der jeweiligen Plattform. Damit unterscheidet sich der Interpreter vom Compiler, der den ganzen Code ausliest und zunächst übersetzt. Das bedeutet, dass jede Analyse durch den Interpreter während der Ausführung der jeweiligen Programmzeile erfolgt. Java benutzt zum Beispiel Interpreter.
+Mithilfe eines Interpreters kann ein Programm den Quellcode direkt ausführen, ohne dass dieser zunächst übersetzt werden müsste. Es geht also um die Umsetzung von Routinen im Code. Eine Übersetzung erfolgt dennoch, allerdings nicht getrennt von der Ausführung. Beim Interpreter sind diese Schritte zusammengefasst, auf jede Zeile im Quellcode erfolgt eine sofortige Aktion. Die Reihenfolge der einzelnen Schritte wird durch die Vorgaben im Quellcode definiert.
+Im Gegensatz zum Compiler ist der Interpreter sehr gut dazu geeignet, Programmierfehler zu entdecken. Das funktioniert sehr simpel: Steckt ein Fehler im Quellcode, kann der Interpreter nicht mehr weiterarbeiten, da er anders als der Compiler nicht zur Korrektur von Fehlern fähig ist. Programmierer können so feststellen, an welcher Stelle der Interpreter seine Arbeit einstellt und wo folglich der Fehler liegt.
+https://www.xovi.de/was-ist-ein-interpreter/
+
